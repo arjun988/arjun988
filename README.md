@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm a Machine Learning Engineer and AI Developer with some background with Full Stack Development<br>I'm currently working on StoryCraft : StoryTelling and Story creation AI based platform<br>I have Entered in Buildspace n&w s5 hope to work on my ai project<br>
+I am that AI guy who loves to automate everything with the help of AI.
+I spend most of my time working on AI/ML projects, from experimenting with models to building autonomous agents , pipelines, and AI orchestration systems that actually work in the wild.
+
+My focus is on AI research meets engineering — blending theory with hands-on development to make intelligent systems that aren’t just cool demos but real tools.
+
+I’m big on open-source, LLMs, and everything that pushes the boundaries of what AI can do — whether it’s chaining models, building cognitive layers, or making workflows that think for themselves.
 
 
 ## 🌐 Socials:
